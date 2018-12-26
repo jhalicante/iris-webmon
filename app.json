@@ -1,0 +1,6 @@
+{
+  "name": "IRIS",
+  "description": "ris: Location- Based Notification Blast for immediate Response and Mitigation",
+  "repository": "https://github.com/heroku/php-getting-started",
+  "addons": []
+}
